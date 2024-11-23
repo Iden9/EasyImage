@@ -10,7 +10,7 @@ pip install pillow
 ```
 
 ### 预览
-![alt text](images/preview.png)
+![alt text](images/preview2.png)
 ## 许可证
 
 本项目采用 MIT 许可证。这意味着你可以：
